@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31825.309
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "m3xpl4yLibrary", "m3xpl4yLibrary.csproj", "{02311901-D9B1-4F34-81CD-BC801044F58B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLogger", "..\MyLogger\MyLogger.csproj", "{EF7886F4-972E-4002-906E-BD9496D1A57E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02311901-D9B1-4F34-81CD-BC801044F58B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02311901-D9B1-4F34-81CD-BC801044F58B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02311901-D9B1-4F34-81CD-BC801044F58B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02311901-D9B1-4F34-81CD-BC801044F58B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF7886F4-972E-4002-906E-BD9496D1A57E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF7886F4-972E-4002-906E-BD9496D1A57E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF7886F4-972E-4002-906E-BD9496D1A57E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF7886F4-972E-4002-906E-BD9496D1A57E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8677857-37D7-4D10-8EAD-D624929486CE}
+	EndGlobalSection
+EndGlobal
